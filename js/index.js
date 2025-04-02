@@ -55,9 +55,7 @@ document.addEventListener("DOMContentLoaded", function () {
         value += "="
     }
 
-    function return_answer() {
-        return answer
-    }
+
     /* クリックイベントの為の変数 */
     const button0 = document.getElementById("0")
     const button1 = document.getElementById("1")
